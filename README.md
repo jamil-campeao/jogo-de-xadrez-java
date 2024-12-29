@@ -6,8 +6,8 @@ Este projeto implementa as regras oficiais do xadrez, incluindo movimentos espec
 Este projeto está licenciado sob a [MIT License](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/LICENSE)
 
 ## Demonstração
-![Chess Game Demo](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/JavaChessGame.png)
-![Chess Game Demo](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/JavaChessGame2.png)
+![Chess Game Demo](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/assets/JavaChessGame.png)
+![Chess Game Demo](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/assets/JavaChessGame2.png)
 
 ## Recursos
 - Suporte para partidas entre dois jogadores.
@@ -28,7 +28,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/jamil-campe
    git clone https://github.com/jamil-campeao/jogo-de-xadrez-java.git
    ```
 2. Abra o terminal na pasta bin do projeto:
-   ![Terminal](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/JavaChessGameTerminal.png)
+   ![Terminal](https://github.com/jamil-campeao/jogo-de-xadrez-java/blob/main/assets/JavaChessGameTerminal.png)
    
 4. Execute o comando para rodar a aplicação:
    ```bash
@@ -38,6 +38,8 @@ Este projeto está licenciado sob a [MIT License](https://github.com/jamil-campe
 
 # Autor
 Desenvolvidor por [Jamil Luiz Campeão](https://github.com/jamil-campeao)
+
+Linkedin: https://www.linkedin.com/in/jamilcampeao/
 
 ## Agradecimentos
 Agradeço ao professor [Nelio Alves](https://github.com/acenelio) pelo conhecimento transmitido no curso de Java, que foi essencial para a publicação deste projeto.
